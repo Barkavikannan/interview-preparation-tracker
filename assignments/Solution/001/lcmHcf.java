@@ -17,6 +17,7 @@ public class lcmHcf {
     } 
 
     
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
         int  num1, num2;
         Scanner sc = new Scanner(System.in);
