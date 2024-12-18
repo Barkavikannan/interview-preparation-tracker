@@ -8,5 +8,5 @@
 6. [x] Input currency in rupees and output in USD.
 7. [x] To calculate Fibonacci Series up to n numbers.
 8. [x] To find out whether the given String is Palindrome or not.
-9. [ ] To find Armstrong Number between two given number.
+9. [x] To find Armstrong Number between two given number.
 

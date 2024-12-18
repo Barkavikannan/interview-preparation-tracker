@@ -26,7 +26,7 @@
         - - - [x] while
         - - - [x] do while
 - [ ] Functions
-  - - [ ] Introduction
+  - - [x] Introduction
   - - [ ] Scoping in Java
   - - [ ] Overloading
   - - [ ] Overriding

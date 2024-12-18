@@ -10,16 +10,20 @@ public class armstrongNum {
         int sum = 0;
         int count = 0;
         while (num != 0) {
-            int rem = num % 10;
-            sum = sum + (int) Math.pow(rem, count);
-            num = num / 10;
             count++;
+            num = num / 10;
             }
-            if (n == sum) {
-                System.out.println(n + " is an Armstrong number");
-                } else {
-                    System.out.println(n + " is not an Armstrong number");
-                    }
-                    }
-    
-}
+            num=n;
+        while (num!=0) {
+            int r = num % 10;
+            sum = sum + (int) Math.pow(r, count);
+            num = num/10;
+        }
+        if (n == sum) {
+            System.out.println(n + " is an Armstrong number");
+            }
+            else {
+                System.out.println(n + " is not an Armstrong number");
+                }                
+        }
+    }        

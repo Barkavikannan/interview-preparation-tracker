@@ -1,8 +1,8 @@
 # Basic Problems
-01. [ ] Addition Of Two Numbers
-02. [ ] Area Of Circle
-03. [ ] Area Of Triangle
-04. [ ] Area Of Rectangle Program 
+01. [x] Addition Of Two Numbers
+02. [x] Area Of Circle
+03. [x] Area Of Triangle
+04. [x] Area Of Rectangle Program 
 05. [ ] Area Of Isosceles Triangle 
 06. [ ] Area Of Parallelogram
 07. [ ] Area Of Rhombus
