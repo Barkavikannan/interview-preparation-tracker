@@ -7,10 +7,11 @@ public class areaOfIsosceles {
         System.out.println("Enter the length of the base of the isosceles triangle: ");
         int b = sc.nextInt();
         System.out.println("Enter the length of the equal sides of the isosceles triangle:");
-        int equalSide = sc.nextInt();
-        double area = (1.0/2)*b* Math.sqrt(equalSide*equalSide-equalSide);
+        int a = sc.nextInt();
+        double height =  Math.sqrt(Math.pow(a,2)-(Math.pow(b/4,2)));
+        double area = (b*height)/2;
         System.out.println("The area of the isosceles triangle is: "+area);
         }
-        
+
     
 }
