@@ -13,8 +13,13 @@ public class checkStringEquivalent {
         checkStringEquivalent obj = new checkStringEquivalent();
         String[] word1 = {"ab", "c"};
         String[] word2 = {"a", "bc"};
-        System.out.println("the String is equal: " + obj.arrayStringsAreEqual(word1, word2));
+        if ( obj.arrayStringsAreEqual(word1, word2)==true) {
+        System.out.println("the String is equal");
         }
+        else{
+            System.out.println("the String is not equal");
         }
+    }
+}
 
     
