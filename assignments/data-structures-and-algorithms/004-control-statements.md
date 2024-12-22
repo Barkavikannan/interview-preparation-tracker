@@ -3,17 +3,17 @@
 
 ## Simple if problems
 
-01. [ ] Write a program that takes an integer input from the user and checks if the number is positive. If it is positive, print "The number is positive."
-02. [ ] Even or Odd (using only one if) - Take an integer input from the user. If the number is even, print "The number is even."
-(No [ ]te: Don't print anything if it's odd.)
-03. [ ] Ask the user to input a number. If the number is divisible by 5, print "The number is divisible by 5."
-04. [ ] Check for uppercase - Take a single character as input. If the character is an uppercase letter, print "The character is uppercase."
-05. [ ] Eligible to vote - Write a program that asks the user for their age. If their age is 18 or older, print "You are eligible to vote."
-06. [ ] Temperature Check - Ask the user to input the current temperature. If the temperature is greater than 30 degrees, print "It's hot outside."
-07. [ ] Check for Vowel - Take a single character input from the user. If the character is a vowel (a, e, i, o, u), print "The character is a vowel."
-08. [ ] Minimum Balance Warning - Write a program to check if a bank account balance is below Rs.100. If it is, print "Warning: Low balance."
-09. [ ] Discount Eligibility - Ask the user for the total amount of their purchase. If the amount is greater than $500, print "You are eligible for a discount."
-10. [ ] Character is Digit - Take a single character as input. If the character is a digit ('0' to '9'), print "This is a digit."
+01. [x] Write a program that takes an integer input from the user and checks if the number is positive. If it is positive, print "The number is positive."
+02. [x] Even or Odd (using only one if) - Take an integer input from the user. If the number is even, print "The number is even."
+(No [x]te: Don't print anything if it's odd.)
+03. [x] Ask the user to input a number. If the number is divisible by 5, print "The number is divisible by 5."
+04. [x] Check for uppercase - Take a single character as input. If the character is an uppercase letter, print "The character is uppercase."
+05. [x] Eligible to vote - Write a program that asks the user for their age. If their age is 18 or older, print "You are eligible to vote."
+06. [x] Temperature Check - Ask the user to input the current temperature. If the temperature is greater than 30 degrees, print "It's hot outside."
+07. [x] Check for Vowel - Take a single character input from the user. If the character is a vowel (a, e, i, o, u), print "The character is a vowel."
+08. [x] Minimum Balance Warning - Write a program to check if a bank account balance is below Rs.100. If it is, print "Warning: Low balance."
+09. [x] Discount Eligibility - Ask the user for the total amount of their purchase. If the amount is greater than $500, print "You are eligible for a discount."
+10. [x] Character is Digit - Take a single character as input. If the character is a digit ('0' to '9'), print "This is a digit."
 
 
 ## if else problems
