@@ -18,16 +18,16 @@
 
 ## if else problems
 
-01. [ ] Check Positive, Negative, or Zero - Take an integer as input. If it's positive, print "Positive number." If it's negative, print "Negative number." Else, print "The number is zero."
-02. [ ] Odd or Even - Take an integer as input. If it's divisible by 2, print "Even number." Else, print "Odd number."
-03. [ ] Greater of Two Numbers - Take two integers as input. Print the greater number. If they are equal, print "Both numbers are equal."
-04. [ ] Divisible by 3, 5 - Take an integer as input. If the number is divisible by 3, print "divisible by 3". If the number is divisible by 5, print "divisible by 5". If the number is divisible by 3 and 5 print "divisible by 3 and 5"
-05. [ ]  Grade Assignment - Take a float score (0 to 100) as input. If the score is 90 or above, print "A." Else if it's 80 or above, print "B." Else if it's 70 or above, print "C." Else, print "F."
-06. [ ] Leap Year Check - Take an integer year as input. If the year is divisible by 4 and not divisible by 100, or divisible by 400, print "Leap year." Else, print "Not a leap year."
-07. [ ] Character Type - Take a single character as input. If it’s a digit ('0' to '9'), print "Digit." Else if it’s an alphabet, print "Alphabet." Else, print "Special character."
-08. [ ] Quadrant of a Point - Take two float inputs representing the x and y coordinates of a point. If both are positive, print "First quadrant." Else if x is negative and y is positive, print "Second quadrant." Else if both are negative, print "Third quadrant." Else if x is positive and y is negative, print "Fourth quadrant." Else, print "Point is on the axis."
-09. [ ] Number Range Check - Take an integer as input. If the number is between 1 and 10 (inclusive), print "In range." Else, print "Out of range."
-10. [ ] Simple Calculator - Take two floats and an operator (+, -, *, /) as input. Perform the operation and print the result. If the operator is invalid, print "Invalid operator."
+01. [x] Check Positive, Negative, or Zero - Take an integer as input. If it's positive, print "Positive number." If it's negative, print "Negative number." Else, print "The number is zero."
+02. [x] Odd or Even - Take an integer as input. If it's divisible by 2, print "Even number." Else, print "Odd number."
+03. [x] Greater of Two Numbers - Take two integers as input. Print the greater number. If they are equal, print "Both numbers are equal."
+04. [x] Divisible by 3, 5 - Take an integer as input. If the number is divisible by 3, print "divisible by 3". If the number is divisible by 5, print "divisible by 5". If the number is divisible by 3 and 5 print "divisible by 3 and 5"
+05. [x]  Grade Assignment - Take a float score (0 to 100) as input. If the score is 90 or above, print "A." Else if it's 80 or above, print "B." Else if it's 70 or above, print "C." Else, print "F."
+06. [x] Leap Year Check - Take an integer year as input. If the year is divisible by 4 and not divisible by 100, or divisible by 400, print "Leap year." Else, print "Not a leap year."
+07. [x] Character Type - Take a single character as input. If it’s a digit ('0' to '9'), print "Digit." Else if it’s an alphabet, print "Alphabet." Else, print "Special character."
+08. [x] Quadrant of a Point - Take two float inputs representing the x and y coordinates of a point. If both are positive, print "First quadrant." Else if x is negative and y is positive, print "Second quadrant." Else if both are negative, print "Third quadrant." Else if x is positive and y is negative, print "Fourth quadrant." Else, print "Point is on the axis."
+09. [x] Number Range Check - Take an integer as input. If the number is between 1 and 10 (inclusive), print "In range." Else, print "Out of range."
+10. [x] Simple Calculator - Take two floats and an operator (+, -, *, /) as input. Perform the operation and print the result. If the operator is invalid, print "Invalid operator."
 
 
 ## switch case problems
