@@ -1,10 +1,10 @@
 # String Problems
 
-01. [ ] [Score of a String](https://leetcode.com/problems/score-of-a-string/)
-02. [ ] [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
+01. [x] [Score of a String](https://leetcode.com/problems/score-of-a-string/)
+02. [x] [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
 03. [ ] [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
-04. [ ] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
-05. [ ] [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/)
+04. [x] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+05. [x] [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/)
 06. [ ] [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/)
 07. [ ] [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
 08. [ ] [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)
@@ -17,7 +17,7 @@
 15. [x] [To Lower Case](https://leetcode.com/problems/to-lower-case/)
 16. [ ] [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 17. [ ] [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
-18. [ ] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+18. [x] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 19. [ ] [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/)
 20. [ ] [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/)
 21. [ ] [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
