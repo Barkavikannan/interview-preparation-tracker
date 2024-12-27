@@ -5,7 +5,7 @@
 03. [ ] [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
 04. [x] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 05. [x] [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/)
-06. [ ] [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/)
+06. [x] [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/)
 07. [ ] [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
 08. [ ] [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)
 09. [x] [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)

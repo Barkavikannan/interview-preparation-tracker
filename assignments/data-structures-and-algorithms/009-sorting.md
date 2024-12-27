@@ -1,8 +1,8 @@
 # Sotring Algorithms
 
-01. [ ] Bubble Sort
-02. [ ] Insertion Sort
-03. [ ] Selection Sort
+01. [x] Bubble Sort
+02. [x] Insertion Sort
+03. [x] Selection Sort
 04. [ ] Cyclic Sort
 
 ## Cyclic Sort Problems
