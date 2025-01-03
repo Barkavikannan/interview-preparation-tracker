@@ -7,22 +7,22 @@
 04. [ ] Factorial of a number n
 05. [ ] Fibonacci of a numer
 06. [ ] Do all the searching and sorting we did till now in recursion
-07. [ ] [Sum triangle from array](https://www.geeksforgeeks.org/sum-triangle-from-array/)
-08. [ ] [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/)
+07. [x] [Sum triangle from array](https://www.geeksforgeeks.org/sum-triangle-from-array/)
+08. [x] [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/)
 09. [ ] [Reverse String](https://leetcode.com/problems/reverse-string/)
 10. [ ] [Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/)
-11. [ ] [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/)
-12. [ ] [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/)
-13. [ ] [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/)
-14. [ ] [Power of Two](https://leetcode.com/problems/power-of-two/)
-15. [ ] [Power of Three](https://leetcode.com/problems/power-of-three/)
-16. [ ] [Power of Four](https://leetcode.com/problems/power-of-four/)
+11. [x] [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/)
+12. [x] [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/)
+13. [x] [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/)
+14. [x] [Power of Two](https://leetcode.com/problems/power-of-two/)
+15. [x] [Power of Three](https://leetcode.com/problems/power-of-three/)
+16. [x] [Power of Four](https://leetcode.com/problems/power-of-four/)
 17. [ ] [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive)
-19. [ ] [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+19. [x] [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 20. [ ] [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/)
 21. [ ] [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/)
-22. [ ] Subset question Eg. Input "abc". Output: [a, b, c, ab, bc, ac, abc, ""]
-23. [ ] Subsequence question Eg. Input [1, 2, 3]. Output: [1, 2, 3, 12, 13, 23, 123, []]
+22. [x] Subset question Eg. Input "abc". Output: [a, b, c, ab, bc, ac, abc, ""]
+23. [x] Subsequence question Eg. Input [1, 2, 3]. Output: [1, 2, 3, 12, 13, 23, 123, []]
 24. [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/)
 25. [ ] [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
 26. [ ] [combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
@@ -68,5 +68,5 @@
 66. [ ] [Concatenated Words](https://leetcode.com/problems/concatenated-words/)
 67. [ ] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 68. [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
-69. [ ] Permutation of a string. Eg Input: "abc". Output: [cba, bca, bac, cab, acb, abc]
+69. [x] Permutation of a string. Eg Input: "abc". Output: [cba, bca, bac, cab, acb, abc]
 70. [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/) - (Do it in recursion and we'll do it again in graphs)
