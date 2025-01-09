@@ -8,7 +8,7 @@
 ## Cyclic Sort Problems
 
 01. [x] [Missing Number](https://leetcode.com/problems/missing-number/)
-02. [ ] [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
+02. [x] [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
 03. [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 04. [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
 05. [ ] [Numbers Disappeared In Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
