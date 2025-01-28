@@ -1,0 +1,22 @@
+public class winnerOfcirclarGame{
+    public static int findTheWinner(int n, int k) {
+        ArrayList<Integer> al = new ArrayList<>();
+       for(int i=0;i<n;i++){
+           al.add(i+1);
+       }
+       return findSolution(al, 0, n, k);
+   }
+   int findSolution(ArrayList<Integer> al, int i, int n, int k){
+       if(al.size()==1){
+           return al.get(0);
+       }
+       int index = (i+k-1)%al.size();
+       al.remove(index);
+       return findSolution(al,index,n,k);
+    }
+    public static void main(String[] args) {
+        int n = 5;
+        int k = 2;
+        System.out.println(findTheWinner(n, k));
+    }
+}

@@ -9,4 +9,12 @@ public class List<T> {
         throw new UnsupportedOperationException("Unimplemented method 'add'");
     }
 
+    public void remove(int i) {
+        throw new UnsupportedOperationException("Unimplemented method 'remove'");
+    }
+
+    public void add(String string) {
+        throw new UnsupportedOperationException("Unimplemented method 'add'");
+    }
+
 }
